@@ -1,5 +1,5 @@
 <!--
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=seungyeubk&show_icons=true">
 -->
 <!--
 ### Hi there 👋
@@ -12,9 +12,9 @@
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=seungyeub&include_all_commits=true">
 -->
-<p align="center"><a href="https://Dev-Jeromebaek.github.io/portfolio-en/"><img width="500px" src="./assets/Logo.png" /></a></p>
+<p align="center"><a href="https://seungyeub.github.io/portfolio-en/"><img width="500px" src="./assets/Logo.png" /></a></p>
 
 
 I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
@@ -25,7 +25,7 @@ I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
 
 - 💻 Develop web & apps.
 
-- 💬 Ask me about anything [here](https://github.com/Dev-Jeromebaek/Dev-Jeromebaek/issues)
+- 💬 Ask me about anything [here](https://github.com/seungyeub/seungyeub/issues)
 
 #### Use Language
 
@@ -48,14 +48,14 @@ I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
 <code><img height="20" alt="swiftui" src="https://github.com/github/explore/blob/main/topics/swiftui/swiftui.png"></code>    
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Jeromebaek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Jeromebaek&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=seungyeub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeub&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/Dev-Jeromebaek/awesome-web-styling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Jeromebaek&repo=awesome-web-styling&theme=buefy" />
+<a href="https://github.com/seungyeub/awesome-web-styling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seungyeub&repo=awesome-web-styling&theme=buefy" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
@@ -64,14 +64,14 @@ I'm a self-taught passionate Software Engineer from South Korea. 🇰🇷
 <br />
 <br />
 
-<a href="https://codesandbox.io/u/Dev-Jeromebaek">
-  <img align="right" alt="Dev-Jeromebaek | CodeSandbox" width="20px" src="./assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/seungyeub">
+  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/codesandbox.svg" />
 </a>
 
 <a href="https://twitter.com/B_SeungYeob">
-  <img align="right" alt="Dev-Jeromebaek | Twitter" width="21px" src="./assets/twitter.svg" />
+  <img align="right" alt="seungyeub | Twitter" width="21px" src="./assets/twitter.svg" />
 </a>
 
 <a href="https://www.instagram.com/jerome.baek/">
-  <img align="right" alt="Dev-Jeromebaek | CodeSandbox" width="20px" src="./assets/instagram.svg" />
+  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/instagram.svg" />
 </a>
