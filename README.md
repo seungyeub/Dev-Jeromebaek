@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=seungyeub&include_all_commits=true">
 -->
-<p align="center"><a href="https://seungyeub.github.io/portfolio-en/"><img width="500px" src="./assets/seungyeub_logo_9_w.png" /></a></p>
+<p align="center"><a href="https://seungyeub.github.io/portfolio-en/"><img width="500px" src="./assets/logo/seungyeub_logo_9_w.png" /></a></p>
 
 <br>
 
