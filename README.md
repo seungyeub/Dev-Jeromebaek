@@ -41,11 +41,11 @@ I'm a passionate Software Engineer from South Korea. 🇰🇷
 <code><img height="20" alt="css" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
 <code><img height="20" alt="sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png"></code>
 
+<code><img height="20" alt="java" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>
+<code><img height="20" alt="spring" src="https://github.com/github/explore/blob/main/topics/spring/spring.png"></code>
 <code><img height="20" alt="python" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 <code><img height="20" alt="fastapi" src="https://github.com/github/explore/blob/main/topics/fastapi/fastapi.png"></code>
 <code><img height="20" alt="django" src="https://github.com/github/explore/blob/main/topics/django/django.png"></code>
-<code><img height="20" alt="java" src="https://github.com/github/explore/blob/main/topics/java/java.png"></code>
-<code><img height="20" alt="spring" src="https://github.com/github/explore/blob/main/topics/spring/spring.png"></code>
 
 <code><img height="20" alt="nginx" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
 <code><img height="20" alt="docker" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
